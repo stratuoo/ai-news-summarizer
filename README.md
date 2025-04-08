@@ -7,7 +7,7 @@ A web app that fetches news, summarizes it with AI, and analyzes sentiment.
 - Sentiment pie chart.
 
 ## Setup
-1. Clone: `git clone <your-repo-url>`
+1. Clone: `git clone <repo-url>`
 2. Install back-end: `npm install`
 3. Install front-end: `cd client && npm install`
 4. Add API keys in `server.js`.
